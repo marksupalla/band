@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body{
+  margin: 0px;
+  background-color: rgba(209, 208, 207, 1); 
+  background-image: url("/images/wilco-mass-moca.jpg");
+  background-size: 1280px 962px;
+  background-repeat: no-repeat;
+  
+}
+
+h1{
+  border: 2px solid black;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  background-color: grey;
+  font-size: 70px;
+  letter-spacing: 10px;
+  text-align: center;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: black;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+h2{ 
+  font-family: 'Montserrat', sans-serif;
+  margin: 30px;
+} 
+
+p{
+  
+  font-family: 'Montserrat', sans-serif;
+  padding: 15px;
+}
